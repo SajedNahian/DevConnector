@@ -1,8 +1,8 @@
 # DevConnector
-A MERN stack social network for developers
-![Screenshot](./Screenshots/1.png)
-![Screenshot](./Screenshots/2.png)
-![Screenshot](./Screenshots/3.png)
-![Screenshot](./Screenshots/4.png)
-![Screenshot](./Screenshots/5.png)
-![Screenshot](./Screenshots/6.png)
+A MERN (MongoDB, Express, React, Node) stack social network application for developers
+![Screenshot](./Screenshots/1.PNG)
+![Screenshot](./Screenshots/2.PNG)
+![Screenshot](./Screenshots/3.PNG)
+![Screenshot](./Screenshots/4.PNG)
+![Screenshot](./Screenshots/5.PNG)
+![Screenshot](./Screenshots/6.PNG)
